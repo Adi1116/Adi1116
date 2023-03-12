@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced level data structure and algorithms, and full stack web development
 - 💞️ I’m looking to collaborate on various projects related to artificial intelligence and full stack web development to make the globe a better place.
 - 📫 How to reach me :-  email address : adityasharmakn@gmail.com
+- linkedin id :- https://www.linkedin.com/in/aditya-sharma-356671233/
 
 <!---
 Adi1116/Adi1116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
