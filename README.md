@@ -54,16 +54,40 @@ Framework for lineage, governance, observability, and lifecycle management acros
 
 ## Tech Stack
 
-Python • SQL • Go • C++
+**Languages:** Python, SQL, Go, C++, JavaScript/TypeScript
 
-Distributed Systems • Backend Engineering • Platform Engineering
+**AI/ML:** 
+- RAG Systems & Vector Databases
+- LLM Integration & Fine-tuning
+- NLP & Semantic Retrieval
+- Predictive Maintenance
 
-Docker • Kubernetes • CI/CD • GitOps
+**Infrastructure:**
+- Kubernetes, Docker, microservices
+- Distributed systems design
+- CI/CD pipelines (GitHub Actions, GitOps)
+- Event-driven architectures
 
-RAG • Semantic Retrieval • AI Observability • Document Intelligence
+**Databases:**
+- PostgreSQL, MongoDB
+- Vector stores (FAISS, ChromaDB, Pinecone)
+- Redis, cache systems
 
 ## Connect
-
+Email: adityasharmakn@gmail.com
 LinkedIn: [www.linkedin.com/in/aditya-sharma-356671233](http://www.linkedin.com/in/aditya-sharma-356671233)
 
 Always open to conversations around AI Infrastructure, Platform Engineering, Distributed Systems, and Applied AI.
+
+### 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Adi1116&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/Adi1116?style=social)
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
