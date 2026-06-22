@@ -1,9 +1,5 @@
 # Hi, I'm Aditya Sharma 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sharma-blue)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Adi1116-black)](https://github.com/Adi1116)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
 Software Engineer focused on AI Infrastructure, Platform Engineering, and Distributed Systems.
 
 Currently working at BlackRock, where I contribute to enterprise-scale AI and document intelligence platforms that enable ingestion, orchestration, retrieval, observability, and AI-powered processing of large-scale enterprise information.
